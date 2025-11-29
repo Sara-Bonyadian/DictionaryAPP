@@ -1,12 +1,18 @@
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
-  margin:30px 0px; 
+  min-height: 0px;
+  
   align-items: center;
   color: white;
 }
 .App-logo {
   max-width: 200px;
   display: block;
-  margin: 0px 20px;
+  margin: 0px auto;
+}
+
+.App-footer {
+  margin: 20px;
+  color: #555;
+  text-align: center;
 }
